@@ -1,4 +1,5 @@
 # Ali Arsanjani, Google
+## 2024
 1. Dimensional Reduction in AI Models: Trend towards leaner, more efficient AI models.
 2. Development of AI Hubs: Emergence of AI hubs for model management.
 3. AI Governance and Intelligent Model Registry: Increased focus on AI governance and compliance.
