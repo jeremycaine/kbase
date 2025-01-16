@@ -30,3 +30,4 @@ Understanding whether your business needs to analyze and classify existing data 
 
 ![deep learning model types](images/3-3.jpg)
 
+[Next](./04-gpu.md)

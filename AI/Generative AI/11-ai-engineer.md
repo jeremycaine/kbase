@@ -44,3 +44,5 @@ Here's a good list of courses to start your AI Engineering journey: [link](https
 AI Engineers stand at the forefront of the AI revolution, turning the promise of AI into tangible, valuable applications. This profession is not just about technical prowess; it's about shaping the future of how we interact with technology.
 
 There are probably going to be significantly more AI Engineers than there are data scientists.
+
+[Next](./12-ethics.md)

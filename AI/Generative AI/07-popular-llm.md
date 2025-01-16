@@ -31,3 +31,5 @@ I listed the Top Open Source LLMs a few weeks back on Linkedin. Here's the [link
 **Why the Distinction Matters**: Understanding the differences between open source and closed source LLMs is crucial for businesses and developers. Open source models offer transparency and the opportunity for customization, while closed source models, often backed by significant resources and research, provide robust, state-of-the-art capabilities but with usage restrictions and costs.
 
 In your AI endeavors, choosing between open source and closed source LLMs will depend on your specific needs, resources, and goals.
+
+[Next](./08-genai-apps.md)

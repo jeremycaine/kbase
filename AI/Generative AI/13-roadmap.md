@@ -21,3 +21,5 @@ An AI Business Roadmap isn't just a technical layout; it's a comprehensive plan 
 ## High Impact, Low Effort AI Use Cases
 
 Incorporate high-impact, low-effort AI applications such as AI chatbots for customer service, content generation, personalized marketing, predictive maintenance, routine task automation, fraud detection, demand forecasting, and streamlined recruitment. These use cases provide a strong foundation for your AI journey, ensuring meaningful returns with minimal initial effort.
+
+[Next](./14-future-trends.md)

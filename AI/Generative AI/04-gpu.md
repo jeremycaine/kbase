@@ -29,3 +29,5 @@ Choosing the appropriate GPU involves understanding your needs - whether it's fo
 We're witnessing a 1000X increase in single-chip GPU performance over the last decade. The future holds more specialized AI chips, quantum computing advancements, and edge AI integrations, further transforming the AI landscape.
 
 In **Conclusion**, GPUs have transitioned from enhancing our gaming experiences to becoming the backbone of AI, fueling advancements in machine learning and beyond. Their role in accelerating AI workloads is indisputable and will continue to shape the future of technology.
+
+[Next](./05-train-fm.md)

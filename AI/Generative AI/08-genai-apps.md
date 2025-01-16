@@ -27,3 +27,5 @@ See my detailed list of Use Cases in this recent LinkedIn post. Here's the [link
 **Transforming Enterprise Operations**: Generative AI is not just a tool; it’s a **game-changer** for business operations. It enables businesses to scale creativity, streamline content creation, engage customers in novel ways, and achieve significant time and cost savings. The integration of AI into these functions is transforming how businesses interact with their customers, manage their internal processes, and innovate in their product offerings.
 
 Incorporating generative AI into business strategies can lead to more efficient, creative, and data-driven approaches, opening new avenues for growth and competitive advantage.
+
+[Next](./09-genai-stack.md)

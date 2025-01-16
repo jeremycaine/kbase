@@ -50,3 +50,5 @@ Training a foundation model can range from tens of thousands to millions of doll
 Customizing foundation models is a great way to get the most out of these powerful tools. It is less expensive, faster, and can give you better performance than training a model from scratch.
 
 In conclusion, while training a foundation model is resource-intensive, it offers unparalleled control and performance, essential for businesses aiming to develop a strong technological edge in AI.
+
+[Next](./06-customize-fm.md)

@@ -28,3 +28,5 @@ In simple terms, foundation models are like the core engine, and generative AI i
 
 ## What are Large Language Models?
 Large Language Models (LLMs) are a type of foundation model specifically designed to understand and generate text. They're trained on huge amounts of text, which makes them good at a wide range of language tasks. LLMs are part of the broader category of foundation models, meaning they're versatile and can be adapted for different uses involving language.
+
+[Next](./02-genai-types.md)

@@ -42,3 +42,4 @@ In the next decade, AI will evolve beyond being just a tool to becoming a creato
 
 While chatbots and conversational AI have made leaps, the future extends far beyond text. Expect AI that can seamlessly interact across various formats, offering richer, more immersive experiences. Whether it's in education, entertainment, or customer service, AI will engage us in more meaningful, dynamic ways.
 
+[Next](./15-continuing.md)

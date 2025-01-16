@@ -51,3 +51,5 @@ but LLMs are *very* expensive:
 - Balancing Capability and Practicality: SLMs are emerging as a practical alternative to LLMs in many business scenarios, offering a mix of specialized capabilities and control.
 
 SLMs represent a significant development in the AI landscape, providing businesses with more agile, cost-effective, and focused solutions for integrating AI into their operations.
+
+[Next](./11-ai-engineer.md)
