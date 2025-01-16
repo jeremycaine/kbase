@@ -26,5 +26,5 @@ The esearch paper that changed everything, called 'Attention is All You Need' [h
 4. 𝗘𝗻𝗵𝗮𝗻𝗰𝗲𝗱 𝗡𝗟𝗣 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲: They significantly outperform previous models in tasks like machine translation and text summarization.
 ​
 5. 𝗕𝗮𝘀𝗶𝘀 𝗳𝗼𝗿 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗠𝗼𝗱𝗲𝗹𝘀: The transformer architecture underpins major NLP models like BERT and GPT, enhancing language processing capabilities.
-​
+
 [Next](./03-trad-ml.md)

@@ -2,7 +2,7 @@
 
 Plan AI in your business by creating an effective AI Business Roadmap. As leaders in your respective fields, the strategic integration of AI can be a transformative step for your organization, driving efficiency, innovation, and substantial growth.
 
-## AI Business Roadmap: A Strategic Necessity
+## AI Business Roadmap: A Strategic Necessity
 
 An AI Business Roadmap isn't just a technical layout; it's a comprehensive plan that aligns AI technologies with your specific business goals. This blueprint encompasses timelines, resources, and technical requirements, and addresses potential risks and human factors ensuring a smooth AI integration.
 
