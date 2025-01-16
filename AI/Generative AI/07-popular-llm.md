@@ -2,7 +2,8 @@
 
 Understand the key differences between open-source and proprietary models and services, and exploring some of the most popular LLMs available today.
 
-## Open Source LLMs:
+## Open Source LLMs:
+
 
 - Accessible and Collaborative: These models are freely available for use, modification, and distribution, promoting community-driven development and innovation.
 - Examples of Open Source LLMs:
@@ -21,7 +22,8 @@ I listed the Top Open Source LLMs a few weeks back on Linkedin. Here's the [link
 
 ![open source vs closed source](images/7-1.jpg)
 
-## The Game Changer: Llama 2
+## The Game Changer: Llama 2
+
 
 - Accessibility and Versatility: Meta's Llama 2 has been released as an open-source AI model, making it accessible for everyone from startups to researchers. Its availability in different sizes (7B, 13B, 70B-parameter models) offers a range of options for fine-tuning and deployment.
 - Innovation and Privacy: As an open-source model, Llama 2 removes barriers to AI adoption and addresses data privacy concerns by allowing private hosting and customization with your own data.

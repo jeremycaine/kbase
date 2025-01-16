@@ -11,14 +11,14 @@ Why are GPUs Crucial for AI?
 - Speed and Efficiency: With rapid thread switching and high memory latency tolerance, GPUs significantly reduce the time needed for training neural networks, like GPT-3, which requires 300 zettaflops of computing power.
 - AI Framework Support: Manufacturers like Nvidia, AMD, and Intel have optimized GPUs for AI frameworks such as TensorFlow and PyTorch.
 
-![inference performance](4-1.jpg)
+![inference performance](images/4-1.jpg)
 
 ## The Rise of AI Supercomputers
 
 AI research has skyrocketed with the advent of AI supercomputers, clusters of GPUs working together. These supercomputers, like Summit, Sierra, and Fugaku, are pushing the boundaries in fields like scientific research and climate modeling.
 
 
-![CEO of Nvidia presenting DGX GH200 AI Supercomputer](4-2.jpg)
+![CEO of Nvidia presenting DGX GH200 AI Supercomputer](images/4-2.jpg)
 
 ## Selecting the Right GPU
 

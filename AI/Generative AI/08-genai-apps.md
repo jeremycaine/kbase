@@ -2,7 +2,7 @@
 
 The transformative applications of generative AI in business, examining how these technologies are reshaping various industries and enterprise functions.
 
-## Broad Spectrum of Business Applications:
+## Broad Spectrum of Business Applications:
 
 - Marketing and Advertising: From crafting compelling ad copy to generating creative landing pages, generative AI is revolutionizing how businesses approach marketing.
 - Content Creation: AI is now capable of producing news articles and social media content, enhancing digital presence with minimal effort.
@@ -14,7 +14,7 @@ The transformative applications of generative AI in business, examining how thes
 
 ![most common generative tasks](images/8-1.jpg)
 
-## Key Benefits for Businesses:
+## Key Benefits for Businesses:
 
 - Increased Efficiency: Automate repetitive content generation tasks, freeing up valuable time for strategic work.
 - Cost Savings: Reduce reliance on expensive human labor, particularly in creative and writing tasks.
